@@ -21,8 +21,9 @@
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "prime-numbers-1-l-280x280.png",
       "scale" : "2x"
     },
     {
